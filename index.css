@@ -1,1 +1,13 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: arial: arial, helvetica, sans-serif;
+}
 
+ul {
+  display: flex;
+  justify-content: space-between;
+  lis-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
